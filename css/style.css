@@ -1,0 +1,112 @@
+
+/* .main{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    border: 2px dashed green;
+    border-top: none;
+} */
+
+/* p{
+    border: solid red 5px
+} */
+
+/* .test{
+    width: 400px;
+    min-width: 400px;
+    max-width: 400px;
+    min-height: 400px;
+    max-height: 400px;
+    height: 400px;
+    background-color: red;
+
+} */
+
+/* .test{
+    width: 200px;
+    height: 200px;
+    background-color: cyan;
+    padding: 10px 15px 12px 16px;
+    padding: 20px;
+} */
+/* 
+.test{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 50px;
+} */
+
+/* .test2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 60px;
+
+} */
+
+/* p{
+    display: none; 
+    visibility: hidden;
+     display: inline;
+} */
+
+/* inline-block widht vere bilirik(inline normalda vere bilmirik width)
+span{
+    display: block;
+    display: inline-block;
+    width: 200px;
+} */
+
+/* position staticdise top ve left deyerleri vere bilmirik */
+.test{
+    width: 100px;
+    height: 100px;
+    border: 2px solid green;
+    position: relative;
+    top: 0;
+    right: 0;
+}
+
+
+
+/* .main{
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    position: relative;
+    top: 20px;
+} */
+/* 
+.main{
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    position: relative;
+    top: 0px;
+    left: 0px;
+} */
+
+/* .main2{
+    width: 100px;
+    height: 100px;
+    border: 2px solid green;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+} */
+
+/* @font-face {
+    font-family:test;
+    src: url(../fonts/ALBOROTO.otf);
+}
+
+p{
+    font-family:test
+} */
+
+.fa-accessible-icon{
+    font-size: 30px;
+    color: blue;
+    
+}
